@@ -1,6 +1,6 @@
 ﻿// Copyright (c)2021 Mike King.
 // This file is licensed to you under the MIT license.
-// See the LICENSE.txt file in the solution root for more information.
+// See the License.txt file in the solution root for more information.
 
 using BitMiracle.LibTiff.Classic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
