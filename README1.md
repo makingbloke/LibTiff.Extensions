@@ -14,9 +14,3 @@ The library itself and the tests use .Net 5.0.
 ## Methods
 
 To be written.
-
-## Version History 
-
-| Version | Date            | Notes            |
-| ------- | --------------- | ---------------- |
-| 1.0.0.0 | 25th April 2021 | Initial release. |
