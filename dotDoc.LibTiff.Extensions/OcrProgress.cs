@@ -1,4 +1,4 @@
-﻿// Copyright (c)2021 Mike King.
+﻿// Copyright ©2021 Mike King.
 // This file is licensed to you under the MIT license.
 // See the License.txt file in the solution root for more information.
 

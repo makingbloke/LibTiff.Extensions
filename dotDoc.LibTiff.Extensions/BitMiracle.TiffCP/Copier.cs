@@ -1,5 +1,5 @@
 ﻿// Copier.cs - part of libtiff.net
-// Copyright(c) 2008 - 2020 Bit Miracle
+// Copyright ©2008 - 2020 Bit Miracle
 // http://www.bitmiracle.com
 // All rights reserved.
 //
