@@ -9,7 +9,7 @@ LibTiff.Extensions is a solution containing extension methods for LibTiff.Net pr
 
 ## Pre-Requisites
 
-The library itself and the tests use .Net 5.0.
+The library itself and the tests use .Net 6.0.
 
 ## Methods
 
